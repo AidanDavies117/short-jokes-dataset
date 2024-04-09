@@ -1,4 +1,4 @@
-# json_to_csv.py
+# json_to_csv2.py
 # Takes all json files of reddit posts, parses jokes from them 
 # and writes into a single csv file
 # 
